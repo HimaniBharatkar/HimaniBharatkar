@@ -1,4 +1,4 @@
-- 👋 Het..! I’m Himani
+- 👋 Hey..! I’m Himani
 - 🌱 I’m a student currently learning BCA
 - 👀 I’m interested in web developing and designing
 
